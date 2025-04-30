@@ -1,4 +1,4 @@
-# 📈 Stock Trading CLI Application (Java)
+# 📈 Stock Trading Application (Java)
 
 A command-line Java application simulating stock trading, order book management, and real-time market tracking.  
 Built for **SE 350 - Object-Oriented Programming** at **DePaul University**.
